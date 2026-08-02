@@ -78,9 +78,3 @@ npx expo start
 Scan the QR code with **Expo Go** on your phone, and Qyudal loads on your device.
 
 ---
-
-## Team
-
-**Team UwU** · Akansha Mishra
-
-Built with AI-assisted (vibe) coding for the International AI Agents Hackathon.
